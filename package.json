@@ -1,7 +1,7 @@
 {
-  "name": "lofi-radio",
+  "name": "dj-mimo-radio",
   "version": "1.0.0",
-  "description": "It is a discord music bot which can play lo-fi song 24/7 & more functions of lofi radio bot",
+  "description": "It is a discord music bot which can play song 24/7 & more functions of dj-mimo radio bot",
   "main": "src/index.js",
   "dependencies": {
     "canvas": "^2.11.2",
@@ -30,17 +30,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diwasatreya/Lofi-Radio.git"
+    "url": "git+https://github.com/zuna107/DJ-Mimo.git"
   },
   "keywords": [
     "lavalink",
-    "discord-lofi",
+    "discord-dj",
     "discord-music-bot"
   ],
-  "author": "diwasatreya",
+  "author": "zetsuna(zuna)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/diwasatreya/Lofi-Radio/issues"
+    "url": "https://github.com/zuna107/DJ-Mimo/issues"
   },
-  "homepage": "https://github.com/diwasatreya/Lofi-Radio#readme"
+  "homepage": "https://github.com/zuna107/DJ-Mimo#readme"
 }
