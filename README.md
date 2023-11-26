@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/diwasatreya/Lofi-Radio">
+  <a href="https://github.com/zuna107/DJ-Mimo">
     <img src="https://images-ext-2.discordapp.net/external/_L-BF6LDZ6x0PPbx4ABpZqm7SpEW6F2VQskVss3Rpro/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1119895957648179201/629ee93cd5140ad6809b4cc6c4912096.png?width=466&height=466" alt="Pbot-plus" width="200" height="200">
   </a>
 
