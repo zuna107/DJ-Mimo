@@ -8,15 +8,15 @@
     <img src="https://imgur.com/uRnWOgJ.png?width=466&height=466" alt="Pbot-plus" width="200" height="200">
   </a>
 
-  <h3 align="center">Lofi Radio</h3>
+  <h3 align="center">DJ Mimo Radio</h3>
 
   <p align="center">
-    It is a discord music bot which can play lo-fi song 24/7 &  more functions of lofi radio bot
+    It is a discord music bot which can play HoYoMiX song 24/7 &  more functions of DJ Mimo radio bot
     <br />
     <br />
-    <a href="https://github.com/diwasatreya/Lofi-Radio/issues">Report Bug</a>
+    <a href="https://github.com/zuna107/DJ-Mimo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/diwasatreya/Lofi-Radio/issues">Request Feature</a>
+    <a href="https://github.com/zuna107/DJ-Mimo/issues">Request Feature</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
